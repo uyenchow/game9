@@ -52,7 +52,7 @@ h1{
     display: none;
 }
 #questionBox{
-    background-color: lightsalmon;
+    background-color: darkred;
     height: 120px;
     /* width: 450px; */
     margin: 50px auto 10px auto;
