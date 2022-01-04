@@ -3,6 +3,10 @@
 margin:0px;
 padding:0px;
 }
+.container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto;display: block;}
+    @media (min-width:768px){.container{width:750px}}
+    @media (min-width:992px){.container{width:970px}}
+    @media (min-width:1200px){.container{width:1170px}}
 body{
     font-family: 'Open Sans', sans-serif;
     background: radial-gradient(circle,#fff,#ccc);
