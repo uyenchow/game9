@@ -44,7 +44,6 @@ h1{
 #wrongBox{
     background-color: lightcoral;
     position: absolute;
-    justify-content: center;
     padding: 10px;
     color: #fff;
     left: 50%;
